@@ -27,7 +27,7 @@ My project includes the following files:
 ```sh
 python drive.py model.h5
 ```
-* Video is below
+* Demo Video is on below link
 [![](https://github.com/anandagrawal2909/ProjectBehaviourialClonin/blob/master/Thmbnail.jpg)](https://youtu.be/NHY75xQT0k4)
 
 
