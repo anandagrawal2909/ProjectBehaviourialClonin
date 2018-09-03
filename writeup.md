@@ -27,6 +27,10 @@ My project includes the following files:
 ```sh
 python drive.py model.h5
 ```
+* Video is below
+[![](https://github.com/anandagrawal2909/ProjectBehaviourialClonin/blob/master/Thmbnail.jpg)](https://youtu.be/NHY75xQT0k4)
+
+
 #### Is the code usable and readable?
 * Yes, code has been modularised and have used relevant variable names.
 * have also stored code inside an json to make more readble and re-usable
